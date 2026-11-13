@@ -33,9 +33,7 @@ Author
 Amit
 
 Live Demo
-
-Add your deployed website URL here.
+https://github.com/bairwaamit55-arch/Portfolio-website.git
 
 GitHub Repository
-
-Add your GitHub repository URL here.
+https://bairwaamit55-arch.github.io/Portfolio-website/
