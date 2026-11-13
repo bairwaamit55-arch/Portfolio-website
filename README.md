@@ -33,7 +33,7 @@ Author
 Amit
 
 Live Demo
-https://github.com/bairwaamit55-arch/Portfolio-website.git
+https://github.com/bairwaamit55-arch/Portfolio-website
 
 GitHub Repository
 https://bairwaamit55-arch.github.io/Portfolio-website/
