@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Hero */
+.hero {
+    text-align: center;
+    padding: 50px 10px;
+    border-bottom: 2px solid black;
+}
+
+/* Three columns */
+.columns {
+    display: flex;
+}
+
+.columns section {
+    flex: 1;
+    padding: 15px;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.columns section:last-child {
+    border-right: none;
+}
+
+/* Reviews */
+.reviews {
+    padding: 25px;
+}
+
+.review-cards {
+    display: flex;
+    gap: 15px;
+}
+
+.card {
+    flex: 1;
+    border: 2px solid gray;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 30px;
+}
+
+/* Mobile screen */
+@media (max-width: 600px) {
+    header {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .columns,
+    .review-cards {
+        flex-direction: column;
+    }
+
+    .columns section {
+        border-right: none;
+    }
+}
