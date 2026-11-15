@@ -32,10 +32,10 @@ Author
 
 Amit
 
-Live Demo
+GitHub Repository 
 https://github.com/bairwaamit55-arch/Portfolio-website
 
-GitHub Repository
+Live Demo
 https://bairwaamit55-arch.github.io/Portfolio-website/
 ## Roadmap.sh Project
 
